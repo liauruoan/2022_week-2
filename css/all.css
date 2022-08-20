@@ -213,7 +213,7 @@ span {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url("../images/banner.png");
+  background: url(/images/banner.png);
   background-position: center;
   background-size: cover;
   color: white;
